@@ -3,6 +3,8 @@ Este projeto se trata de Gerenciamento de Robô de combate (Mecha), onde o pilot
 Arena Core - Gerenciamento de Robô de Combate
 Como Executar o Projeto
 
-### Pré-requisitos
-* **JDK 17** ou superior instalado.
-* **Kotlin Compiler (`kotlinc`)** instalado (ou utilize uma IDE como IntelliJ IDEA / Android Studio).
+Abra o arquivo do MechaCombat.kt
+
+Como funciona:
+
+-Nesse projeto você é um piloto de mecha, seu principal objetivo é destruir o Mecha inimigo enquanto toma decisões por turnos, você pode levantar escudos, atirar no Mecha inimigo, recuperar energia junto de tambem diminuir a temperatura do núcleo, e tambem fugir da batalha.
